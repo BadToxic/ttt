@@ -1,0 +1,57 @@
+# =============== #
+# Manual Added #
+# =============== #
+TicTacToe_Data
+TicTacToe.exe
+AssetStoreTools*
+WebGL
+Windows
+
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+# [Bb]uild #Needed for WebGL
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Mm]onoBleedingEdge/
+/[Uu]serSettings/
+sysinfo.txt
+*.stackdump
+# For Android
+res
+libs
+gen
+raw.ap_
+Package_unaligned.apk
+assets.ap_
+UnityCrashHandler32.exe
+UnityPlayer.dll
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+bin
