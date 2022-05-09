@@ -1,0 +1,33 @@
+A Tic Tac Toe game with an artificial intelligence that can play perfectly using a MinMax algorithm.
+<br/>
+<br/>
+— Content —<br/>
+<br/>
+- <strong>TicTacToeController</strong> script<br/>
+- <strong>TicTacToeSettings</strong> script<br/>
+<br/>
+— Requirements —<br/>
+<br/>
+<em>Nothing special</em>: Works on all platforms supported by Unity.<br/>
+<br/>
+— Usage —<br/>
+<br/>
+Click "Start" to play against the AI - but sorry, you will never win. ;)<br/>
+You can activate the AI (toggles) for each player, both or none.<br/>
+Activating "Shortcuts" will activate hard coded behavior for the first two moves of a game. This is to show how the calculation time can be improved by using some kind of wisdom database of optimal moves and to generate variety by choosing between different optimal moves by random.<br/>
+Activating "Visualize" will enable the rendering of all moves the AI tests while calculating and displays the recursion depths and scores from the MinMax algorithm. It also activates a slider that can regulate how long each AI test move should be displayed before making the next move.<br/>
+<br/>
+<br/>
+— Support —<br/>
+<br/>
+Need help? Contact me on <a href="https://discord.gg/8QMCm2d">Discord</a>.<br/>
+<br/>
+— Follow me —<br/>
+<br/>
+<strong><a href="https://discord.gg/8QMCm2d">Discord</a><br/>
+<a href="https://www.instagram.com/xybadtoxic">Instagram</a><br/>
+<a href="https://twitter.com/BadToxic">Twitter</a><br/>
+<a href="https://www.facebook.com/XyBadToxic">Facebook</a></strong><br/>
+<a href="https://www.youtube.com/user/BadToxic">YouTube</a></strong><br/>
+<a href="https://www.twitch.tv/xybadtoxic">Twitch</a></strong><br/>
+<a href="https://www.tiktok.com/@badtoxic">TikTok</a></strong><br/>
